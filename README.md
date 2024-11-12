@@ -38,7 +38,7 @@ requirements.txt: Файл с зависимостями для установк
     "save_path": "save_path"  # Локальный путь к файлу
  }   
 ``` 
-###Сборка и запуск в Docker
+### Сборка и запуск в Docker
 
 Сборка Docker image:  make  run    
                                  или  docker build --tag rnn .
